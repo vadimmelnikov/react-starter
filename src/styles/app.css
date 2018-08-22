@@ -1,0 +1,14 @@
+/* line 1, src/styles/app.scss */
+.title {
+  color: rosybrown; }
+
+/* line 4, src/styles/app.scss */
+.tools {
+  color: tomato;
+  font-size: 18px; }
+
+/* line 8, src/styles/app.scss */
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 0 20px; }
